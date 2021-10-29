@@ -1,0 +1,23 @@
+/* reset color */
+body {
+    background-color: #006cfa;
+}
+
+/* MAIN */
+.container {
+    background-color: white;
+}
+
+.box  {
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    height: 50px;
+}
+
+.nested {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+}
