@@ -1,13 +1,4 @@
-/* reset color */
-body {
-    background-color: #006cfa;
-}
-
 /* MAIN */
-.container {
-    background-color: white;
-}
-
 .box  {
     background-color: #006cfa;
     border: 1px solid white;
